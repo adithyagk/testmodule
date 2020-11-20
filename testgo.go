@@ -1,8 +1,8 @@
 package testmodule
 
-import {
+import (
 "fmt"
-}
+)
 func Abc {
 fmt.Println("hello")
 }
