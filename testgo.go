@@ -3,6 +3,6 @@ package testmodule
 import (
 "fmt"
 )
-func Abc {
+func Abc () {
 fmt.Println("hello")
 }
